@@ -1,0 +1,3 @@
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MaximunNumberPrizes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MaximunNumberPrizes/cmake-build-debug/CMakeFiles/MaximunNumberPrizes.dir
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MaximunNumberPrizes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

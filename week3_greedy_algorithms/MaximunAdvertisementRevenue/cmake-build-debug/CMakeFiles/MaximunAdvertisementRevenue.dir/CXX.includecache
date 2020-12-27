@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MaximunAdvertisementRevenue/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

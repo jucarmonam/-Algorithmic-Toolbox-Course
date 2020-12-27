@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MaximumSalary/main.cpp
+iostream
+-
+vector
+-
+math.h
+-
+

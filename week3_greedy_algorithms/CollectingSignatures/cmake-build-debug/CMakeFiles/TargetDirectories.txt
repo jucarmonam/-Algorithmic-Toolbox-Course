@@ -1,0 +1,3 @@
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/week3_greedy_algorithms/CollectingSignatures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/week3_greedy_algorithms/CollectingSignatures/cmake-build-debug/CMakeFiles/CollectingSignatures.dir
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/week3_greedy_algorithms/CollectingSignatures/cmake-build-debug/CMakeFiles/rebuild_cache.dir

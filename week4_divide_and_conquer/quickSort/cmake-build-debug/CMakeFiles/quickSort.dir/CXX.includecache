@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/week4_divide_and_conquer/quickSort/main.cpp
+iostream
+-
+vector
+-
+cstdlib
+-
+time.h
+-
+algorithm
+-
+

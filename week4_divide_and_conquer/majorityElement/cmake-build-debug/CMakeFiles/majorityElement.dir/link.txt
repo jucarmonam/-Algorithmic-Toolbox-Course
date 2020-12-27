@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\majorityElement.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\majorityElement.dir/objects.a @CMakeFiles\majorityElement.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\majorityElement.dir/objects.a -Wl,--no-whole-archive  -o majorityElement.exe -Wl,--out-implib,libmajorityElement.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\majorityElement.dir\linklibs.rsp

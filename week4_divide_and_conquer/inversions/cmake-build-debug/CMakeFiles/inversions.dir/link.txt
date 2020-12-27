@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\inversions.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\inversions.dir/objects.a @CMakeFiles\inversions.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\inversions.dir/objects.a -Wl,--no-whole-archive  -o inversions.exe -Wl,--out-implib,libinversions.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\inversions.dir\linklibs.rsp

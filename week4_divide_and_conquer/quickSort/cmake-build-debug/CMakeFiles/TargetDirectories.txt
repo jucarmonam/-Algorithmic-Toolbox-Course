@@ -1,0 +1,3 @@
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/week4_divide_and_conquer/quickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/week4_divide_and_conquer/quickSort/cmake-build-debug/CMakeFiles/quickSort.dir
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/week4_divide_and_conquer/quickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MoneyChange/cmake-build-debug/CMakeFiles/MoneyChange.dir
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MoneyChange/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MoneyChange/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\closesPoints.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\closesPoints.dir/objects.a @CMakeFiles\closesPoints.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\closesPoints.dir/objects.a -Wl,--no-whole-archive  -o closesPoints.exe -Wl,--out-implib,libclosesPoints.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\closesPoints.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MaximumSalary/cmake-build-debug/CMakeFiles/MaximumSalary.dir
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MaximumSalary/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Juan Pablo/Desktop/Curso de algoritmos/MaximumSalary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
